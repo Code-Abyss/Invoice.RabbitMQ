@@ -1,0 +1,162 @@
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.exe
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.deps.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.runtimeconfig.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.runtimeconfig.dev.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Application.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Persistence.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Application.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Persistence.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Domain.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.csproj.AssemblyReference.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.AssemblyInfoInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.AssemblyInfo.cs
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.csproj.CoreCompileInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\staticwebassets\Invoice.API.StaticWebAssets.Manifest.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.RazorTargetAssemblyInfo.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.csproj.CopyComplete
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.genruntimeconfig.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Services.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Services.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.exe
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.deps.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.runtimeconfig.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.runtimeconfig.dev.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.API.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Application.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Persistence.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Application.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Persistence.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\bin\Debug\netcoreapp3.1\Invoice.Domain.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.csproj.AssemblyReference.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.AssemblyInfoInputs.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.AssemblyInfo.cs
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.csproj.CoreCompileInputs.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\staticwebassets\Invoice.API.StaticWebAssets.Manifest.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.RazorTargetAssemblyInfo.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.csproj.CopyComplete
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.API\obj\Debug\netcoreapp3.1\Invoice.API.genruntimeconfig.cache

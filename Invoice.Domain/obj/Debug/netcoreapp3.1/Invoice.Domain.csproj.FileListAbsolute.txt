@@ -1,0 +1,20 @@
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\bin\Debug\netcoreapp3.1\Invoice.Domain.deps.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\bin\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\bin\Debug\netcoreapp3.1\Invoice.Domain.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.csproj.AssemblyReference.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.AssemblyInfoInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.AssemblyInfo.cs
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\bin\Debug\netcoreapp3.1\Invoice.Domain.deps.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\bin\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\bin\Debug\netcoreapp3.1\Invoice.Domain.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.csproj.AssemblyReference.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.AssemblyInfoInputs.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.AssemblyInfo.cs
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Domain\obj\Debug\netcoreapp3.1\Invoice.Domain.pdb

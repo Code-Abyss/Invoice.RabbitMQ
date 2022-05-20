@@ -1,0 +1,36 @@
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.deps.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.runtimeconfig.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.runtimeconfig.dev.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.csproj.AssemblyReference.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.AssemblyInfoInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.AssemblyInfo.cs
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.genruntimeconfig.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Application.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Application.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Domain.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.csproj.CopyComplete
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.deps.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.runtimeconfig.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.runtimeconfig.dev.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Persistence.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Application.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Application.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\bin\Debug\netcoreapp3.1\Invoice.Domain.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.csproj.AssemblyReference.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.AssemblyInfoInputs.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.AssemblyInfo.cs
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.csproj.CopyComplete
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Persistence\obj\Debug\netcoreapp3.1\Invoice.Persistence.genruntimeconfig.cache

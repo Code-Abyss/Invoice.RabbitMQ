@@ -1,0 +1,30 @@
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Services.deps.json
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Services.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Services.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.csproj.AssemblyReference.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.AssemblyInfoInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.AssemblyInfo.cs
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.csproj.CoreCompileInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Application.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Application.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Domain.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\Invoice\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.csproj.CopyComplete
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Services.deps.json
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Services.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Services.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Application.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Domain.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Application.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\bin\Debug\netcoreapp3.1\Invoice.Domain.pdb
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.csproj.AssemblyReference.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.AssemblyInfoInputs.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.AssemblyInfo.cs
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.csproj.CoreCompileInputs.cache
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.csproj.CopyComplete
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.dll
+C:\Users\m.bwedani\Downloads\Invoice.RabbitMQ-main\Invoice.Services\obj\Debug\netcoreapp3.1\Invoice.Services.pdb

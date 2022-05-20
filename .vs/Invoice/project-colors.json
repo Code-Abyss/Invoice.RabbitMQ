@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93f437b8-9ebf-4df1-87f0-a148cd66a483": {
+      "ProjectGuid": "93f437b8-9ebf-4df1-87f0-a148cd66a483",
+      "DisplayName": "Invoice.Persistence",
+      "ColorIndex": 0
+    },
+    "aa7c50ba-fc15-40be-9aeb-4ae4eedfc8e2": {
+      "ProjectGuid": "aa7c50ba-fc15-40be-9aeb-4ae4eedfc8e2",
+      "DisplayName": "Invoice.Application",
+      "ColorIndex": 1
+    },
+    "2d145b74-6ce8-4df9-8525-73721bffd376": {
+      "ProjectGuid": "2d145b74-6ce8-4df9-8525-73721bffd376",
+      "DisplayName": "Invoice.Domain",
+      "ColorIndex": 2
+    },
+    "ba42f165-955b-4717-aed3-3988616df77e": {
+      "ProjectGuid": "ba42f165-955b-4717-aed3-3988616df77e",
+      "DisplayName": "Invoice.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
